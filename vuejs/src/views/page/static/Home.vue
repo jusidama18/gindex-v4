@@ -247,7 +247,7 @@
                   class="columns is-multiline is-mobile is-centered is-vcentered"
                 >
                   <div :class="ismobile ? 'column is-full' : 'column is-half'">
-                    Binge Watching Made Easy.
+                    Welcome to Jusidama Index from GDrive Index
                   </div>
                   <div :class="ismobile ? 'column is-full' : 'column is-full'">
                     <h1
