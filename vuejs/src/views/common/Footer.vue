@@ -20,23 +20,23 @@
           rel="dct:type"
           >Google Drive Index</span
         >
-        by
+        of
         <a
           xmlns:cc="http://creativecommons.org/ns#"
-          href="https://github.com/tks18"
+          href="https://t.me/Jusidama"
           property="cc:attributionName"
           rel="cc:attributionURL"
-          >Sudharshan TK</a
+          >Jusidama Index</a
         >
         is licensed under a
         <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"
           >CCA-NC 4.0 Int. License</a
-        >.<br />Based on a work at
+        >.<br />Have fun ! Don't Forget to Join Our
         <a
           xmlns:dct="http://purl.org/dc/terms/"
-          href="https://github.com/tks18/gindex-v4"
+          href="https://t.me/Jusidama/317"
           rel="dct:source"
-          >Github</a
+          >Group</a
         >
       </div>
     </div>
