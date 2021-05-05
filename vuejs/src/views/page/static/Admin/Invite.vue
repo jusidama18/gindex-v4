@@ -162,7 +162,7 @@
                     I Accept and Read the
                     <a
                       class="has-text-success"
-                      href="https://raw.githubusercontent.com/tks18/gindex-v4/dark-mode-0-1/CONTRIBUTING.md"
+                      href="https://cdn.jsdelivr.net/gh/tks18/gindex-v4@frontend-8.3.1/CONTRIBUTING.md"
                       target="_blank"
                       >Community Guidelines</a
                     ></span
@@ -186,7 +186,7 @@
                     I Accept and Read the
                     <a
                       class="has-text-success"
-                      href="https://github.com/tks18/gindex-v4/blob/dark-mode-0-1/CODE_OF_CONDUCT.md"
+                      href="https://cdn.jsdelivr.net/gh/tks18/gindex-v4@frontend-8.3.1/CODE_OF_CONDUCT.md"
                       target="_blank"
                       >Code of Conduct</a
                     ></span
